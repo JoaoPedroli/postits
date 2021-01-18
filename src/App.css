@@ -1,0 +1,67 @@
+.containerApp{
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+  margin-bottom: 7%;
+}
+.bugs-tasks{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+.bugs-tasks div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.bugs-tasks div div input{
+  margin-right: 10px;
+}
+.bugs-tasks div div select{
+  margin-right: 10px;
+}
+.bugs-tasks hr{
+  background: white;
+  border: 1px white solid;
+  height: 110%;
+}
+
+.containerBugsTasks{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.containerBugsTasks div{
+  width: 50%;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.containerBugsTasks div div{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.bugs{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.tasks{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
