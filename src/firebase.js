@@ -3,14 +3,7 @@ import 'firebase/database'
 import 'firebase/auth'
 
 let firebaseConfig = {
-  apiKey: "AIzaSyBX2s2lXQqOgwI-YwdUvZWRq5jeMG0djaw",
-  authDomain: "postits-b93ef.firebaseapp.com",
-  databaseURL: "https://postits-b93ef-default-rtdb.firebaseio.com",
-  projectId: "postits-b93ef",
-  storageBucket: "postits-b93ef.appspot.com",
-  messagingSenderId: "267197392704",
-  appId: "1:267197392704:web:d79b2f732339826e4bbca5",
-  measurementId: "G-BZBPLQMJFH"
+  // config
 }
 
 class Firebase{
