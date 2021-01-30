@@ -1,6 +1,6 @@
 import React from 'react'
 
-import '../styles/input.css'
+import './style.css'
 
 export default function Input(props){
   const {value, setValue, type} = props

@@ -1,0 +1,44 @@
+.containerHome{
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+  margin-bottom: 7%;
+}
+
+#config{
+  position: absolute;
+  top: 2%;
+  right: 1%;
+  cursor: pointer;
+}
+
+#close{
+  position: absolute;
+  top: 38%;
+  right: 37%;
+  cursor: pointer;
+}
+
+#menuConfig{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(10, 10, 10, 0.712);
+  color: black;
+  margin-top: -2%;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+#menuConfigSub{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  /* box-shadow: 1px 1px 5px black; */
+  border-radius: 5px;
+  width: 30%;
+  height: 30%;
+}

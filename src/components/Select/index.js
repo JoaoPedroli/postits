@@ -1,6 +1,6 @@
 import React from 'react'
 
-import '../styles/select.css'
+import './style.css'
 
 export default function Select(props){
   const {value, setValue, type} = props

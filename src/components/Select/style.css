@@ -1,0 +1,10 @@
+#select{
+  background: rgb(53, 62, 92);
+  color: white;
+  height: 30px;
+  width: 100%;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 2px;
+}

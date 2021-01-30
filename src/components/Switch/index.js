@@ -1,6 +1,6 @@
 import React from 'react'
 
-import '../styles/switch.css'
+import './style.css'
 
 export default function Switch(){
   return(

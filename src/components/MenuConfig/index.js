@@ -3,7 +3,7 @@ import React from 'react'
 import {FaTimes} from 'react-icons/fa'
 
 // components
-import Switch from '../../../components/Switch' 
+import Switch from '../Switch' 
 
 export default function MenuConfig(props){
   const{setValue} = props
